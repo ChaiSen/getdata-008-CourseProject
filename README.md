@@ -20,7 +20,7 @@ run_analysis.R contains the script which will perform getting and cleaning the d
 4. Run the run_analysis.R script
 
 ####Output of the run_analysis.R file
-A data frame which is required in step 5 of the Course Project instruction will be created. run_analysis.R has stored this a data frame called _tidyData_
+A data frame which is required in step 5 of the Course Project instruction will be created. run_analysis.R has stored this in a data frame called _tidyData_
 
 ###Codebook
 The Codebook found in this Repository will explain the variables names (aka Column names) of the _tidyData_
